@@ -1,0 +1,5 @@
+name: arenaGameShy
+version: '${version}'
+main: me.shy.arenagameshy.ArenaGameShy
+api-version: '1.20'
+depend: [MythicMobs]
